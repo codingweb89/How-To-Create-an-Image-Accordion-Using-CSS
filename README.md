@@ -1,1 +1,1 @@
-# How-To-Create-an-Image-Accordion-Using-CSS-JavaScript
+# How-To-Create-an-Image-Accordion-Using-CSS
